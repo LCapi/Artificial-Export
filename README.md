@@ -49,15 +49,15 @@ No additional packages or languages are required.
 Copy & Paste:
 
 ```bash
-nano project-export.sh
+nano artificial-export.sh
 ### Copy & Paste the script, save and exist
 ```
 or
 
-Clonee the repository:
+Clone the repository:
 
 ~~~bash
-git clone https://github.com/<your-user>/Artificial-Export.git
+git clone https://github.com/LCapi/Artificial-Export.git
 cd Artificial-Export
 ~~~
 
